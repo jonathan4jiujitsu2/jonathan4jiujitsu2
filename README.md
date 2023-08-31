@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Jonathan, a Electrical Engineering student  from Los Angeles, California. 
+
+
+What are you interested in learning?
+  - Embedded Systems
+  - Algorithms 
+  - Electronics
+  - Firmware
+  - Communication Systems 
+What are you working on?
+   Myself. 
+
+Hobbies: 
+    I lift. I occasionally train calves.
