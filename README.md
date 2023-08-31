@@ -22,7 +22,8 @@ What are you interested in learning?
   - Algorithms 
   - Electronics
   - Firmware
-  - Communication Systems 
+  - Communication Systems
+
 What are you working on?
    Myself. 
 
